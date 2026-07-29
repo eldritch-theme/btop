@@ -9,14 +9,22 @@ Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With 
 Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
-<!-- Your screenshot should go here -->
-<img src="screenshot.png" alt="Screenshot"/><br/>
+
+<!-- Your screenshots should go here -->
+
+<details>
+    <summary>🦑 Cthulhu (Default)</summary>
+    <img src=".github/screenshots/cthulhu.webp" alt="Cthulhu"/>
+</details>
+<details>
+    <summary>🌀 Abyss (Darker)</summary>
+    <img src=".github/screenshots/abyss.webp" alt="Abyss"/>
+</details>
+<details>
+    <summary>🌅 Dusk (Light)</summary>
+    <img src=".github/screenshots/dusk.webp" alt="Dusk"/>
+</details>
 
 ### Installation
-1. Download the `eldritch.theme` from this repo and place in your btop themes directory (usually `~/.config/btop/themes`).
-2. In your btop config file (usually ~/.config/btop/btop.conf) add the following line:
-`color_theme = "eldritch"`
-
-<!-- If you want to provide install from source options, you can use the following template: -->
-<!-- ### Installation From Source -->
-<!-- 1. Any instructions here -->
+1. Download your preferred variant from [themes](themes) into `~/.config/btop/themes`
+2. Open btop and select the theme in the options menu
